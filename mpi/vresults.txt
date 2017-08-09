@@ -1,0 +1,6 @@
+timings (proc 0):
+readData: 0.00052336
+processData: 0.00001497
+reduceResults: 0.00000605
+total: 0.00054439
+
